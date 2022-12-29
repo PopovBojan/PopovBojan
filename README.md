@@ -1,5 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bojan Popov
+===================================================================================================================================
+
 Web Developer
+-------------
+
 Trustworthy and courageous. I am experienced at working as part of a team and individually. I am always energetic and eager to learn new programming skills as well as I am greatly motivated for new challenges in the front-end react development field of work. Furthermore, I am a dependable person who is great at time management and I am able to work with the team to provide imaginative solutions for diverse problems and obstacles.* 🌍  I'm based in Skopje, NMK
 
 ### Skills
